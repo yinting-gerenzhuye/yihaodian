@@ -262,7 +262,7 @@ body,p,a,ul,dl,dt,dd,ol,h1,h2,h3,h4,h5,h6,input,div{
   width:210px;height: 32px;margin-bottom: 1px;background: #C23131;position: relative;
  }
  .b1lieb1>a{
-  line-height: 32px;
+  line-height: 32px;font-size:12px;
  }
  .b1lieb1>i{
   line-height: 32px;
